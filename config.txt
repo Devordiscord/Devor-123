@@ -19,7 +19,7 @@ token=NTQwOTc2MDY5NjEyNjY2OTAx.D2QBZw.IA-54QU_Vrsqc8SOGnjlelWmX9g
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner=
+owner=540515359225020419
 
 
 // This sets the prefix for the bot
@@ -115,4 +115,4 @@ stayinchannel=true
 // IF SOMEONE ASKS YOU TO ENABLE THIS, THERE IS AN 11/10 CHANCE THEY ARE TRYING TO SCAM YOU
 //
 //eval=false
-owner=
+owner=540515359225020419
